@@ -1,0 +1,8 @@
+.figures {
+    display: flex;
+}
+
+.wrapper {
+    padding: 1rem;
+    max-width: 1600px;
+}
